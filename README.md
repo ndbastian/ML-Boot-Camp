@@ -1,2 +1,2 @@
 # ML-Boot-Camp
-JAIC Machine Learning Boot Camp Course
+Machine Learning Boot Camp Short Course
